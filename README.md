@@ -1,4 +1,4 @@
-[# Bienvenido a mi página de GitHub
+# Bienvenido a mi página de GitHub
 
 ¡Hola a todos! Soy Agustin Espeche, un apasionado de la programación y el desarrollo de software. En esta página encontrarás una recopilación de mis proyectos, contribuciones y experiencias en el mundo de la tecnología.
 
