@@ -17,6 +17,6 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 
 Si deseas ponerse en contacto conmigo, no dudes en enviarme un correo electrónico a [leyvidson@gmail.com](mailto:tu_correo@ejemplo.com). También puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-espeche-b052a6151/) o +5493518109725.
 
-Puedes encontrar más detalles sobre mis proyectos en mi repositorio de [GitHub] (https://github.com/114154-ESPECHE).
+Puedes encontrar más detalles sobre mis proyectos en mi repositorio de [GitHub] https://github.com/114154-ESPECHE
 
 ¡Gracias por visitar mi página de GitHub!
