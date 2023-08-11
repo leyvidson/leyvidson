@@ -11,11 +11,11 @@ Soy un desarrollador entusiasta con experiencia en varios lenguajes de programac
 Aquí hay una lista de algunos de mis proyectos destacados en curso:
 
 - [API Veterinaria](https://github.com/114154-ESPECHE/veterinariaAPI.git):
-- Java Spring Boot MVC + Service (DATA JPA, H2)
-- Donde profesionales veterinarios y dueños de mascotas podran verificar la historia clinica, recordatorios, estudios, etc.
+ Java Spring Boot MVC + Service (DATA JPA, H2)
+ Donde profesionales veterinarios y dueños de mascotas podran verificar la historia clinica, recordatorios, estudios, etc.
 - [API Redes](https://github.com/114154-ESPECHE/redesAPI):
-- Java Spring Boot MVC + Service (DATA JPA, H2)
-- API para retornar las redes que contiene  la ubicacion seleccionada dede maps.
+ Java Spring Boot MVC + Service (DATA JPA, H2)
+ API para retornar las redes que contiene  la ubicacion seleccionada dede maps.
 
 ## Contacto
 
