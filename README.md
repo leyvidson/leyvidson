@@ -6,12 +6,14 @@
 
 Soy un desarrollador entusiasta con experiencia en varios lenguajes de programación, como Java, C# .Net, SQL. Me encanta explorar nuevas tecnologías y aprender constantemente. Mi objetivo es trabajar en equipo y crear soluciones eficientes que resuelvan problemas del mundo real.
 
-## Proyectos destacados 
+## Proyectos destacados en proceso: 
 
-Aquí hay una lista de algunos de mis proyectos que estan en proceso:
+Aquí hay una lista de algunos de mis proyectos:
+
+*Principalmente me enfoco en backend.
 
 - [REST FULL API Veterinaria](https://github.com/114154-ESPECHE/veterinariaAPI.git):
- Java Spring Boot MVC + Service (DATA JPA, H2)
+ Java Spring Boot MVC + Service (DATA JPA, H2), Http, css, js, bootstrap.
  Donde profesionales veterinarios y dueños de mascotas podran verificar la historia clinica, recordatorios, estudios, etc.
 - [REST FULL API Redes](https://github.com/114154-ESPECHE/redesAPI):
  Java Spring Boot MVC + Service (DATA JPA, H2)
